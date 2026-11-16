@@ -1,0 +1,9 @@
+# Our Services
+
+1. SMART SURVEILLANCE
+2. NETWORK HARDENING
+3. CYBERSECURITY HARDENING
+4. BUSINESS TECH ADD VALUE
+5. Jan AI - Offline AI Assistant
+
+We Secure by Design.
